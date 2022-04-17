@@ -1,0 +1,23 @@
+body {
+  background: url(https://i.ytimg.com/vi/bIY8SvJLC98/maxresdefault.jpg);
+  background-size: 100%;
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+a {
+  color: olive;
+  text-decoration: none;
+}
+
+table {
+  color: white;
+  font-weight: bolder;
+  background-color: rgba(0, 0, 0, 50%);
+}
+
+table img {
+  width: 100px;
+  height: 100px;
+}
